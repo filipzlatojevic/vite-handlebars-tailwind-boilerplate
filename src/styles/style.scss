@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './file1';
+
+h1 {
+  color: $orange-100;
+  font-size: 30px;
+}

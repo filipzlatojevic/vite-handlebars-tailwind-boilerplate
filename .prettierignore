@@ -1,0 +1,6 @@
+.vscode
+dist
+node_modules
+tailwind.config.js
+.eslintrc.js
+vite.config.js

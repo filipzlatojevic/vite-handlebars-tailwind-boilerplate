@@ -1,0 +1,17 @@
+# Dependency directories
+/node_modules
+
+# Compiled JavaScript and TypeScript files
+/dist
+/build
+/out
+
+# Environment configurations
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
