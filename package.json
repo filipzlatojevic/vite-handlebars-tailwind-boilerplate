@@ -5,7 +5,6 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "filesToPimcore": "mkdir public-static && cp -r dist/scripts.js ./public-static/scripts.js",
     "lint": "eslint .",
     "format": "prettier --write ."
   },
@@ -25,6 +24,6 @@
   },
   "author": {
     "name": "filipzlatojevic",
-    "email": "filip.zlatojevic@asioso.com"
+    "email": "ficozlatojevic@gmail.com"
   }
 }
